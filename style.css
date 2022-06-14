@@ -3,5 +3,10 @@
 }
 
 body {
-  background-color: blue;
+  background-color: red;
+}
+
+.newDiv {
+  font: grey 36px;
+  border: 2px blue solid;
 }
